@@ -9,4 +9,4 @@ data scientist / ml engineer @ [smartbi](https://smartbi.fi)
 
 *ship or it didn’t happen*
 
-📫 valtteri.valo@smartbi.fi
+📫 valtteri.valo@smartbi.fi · [x](https://x.com/ValtteriValo) · [linkedin](https://www.linkedin.com/in/valtteri-valo/)
