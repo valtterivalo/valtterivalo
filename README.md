@@ -3,8 +3,8 @@
 data scientist / ml engineer @ [smartbi](https://smartbi.fi)
 
 ## building
-- **llm-viz** – lean visual interface for llms, beyond chat  
-- **reader** – llm-assisted app for faster learning & retention  
+- **intellea** – lean visual interface for llms, beyond text chat
+- **lumir** – llm-assisted app for faster learning & retention  
 - client work – agents, mlops, optimizations
 
 *ship or it didn’t happen*
