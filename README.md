@@ -7,6 +7,4 @@ data scientist / ml engineer @ [smartbi](https://smartbi.fi)
 - **lumir** – llm-assisted app for faster learning & retention  
 - client work – agents, mlops, optimizations
 
-*ship or it didn’t happen*
-
 📫 valtteri.valo@smartbi.fi · [x](https://x.com/ValtteriValo) · [linkedin](https://www.linkedin.com/in/valtteri-valo/)
