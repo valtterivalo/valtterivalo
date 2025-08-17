@@ -4,6 +4,7 @@ data scientist / ml engineer @ [smartbi](https://smartbi.fi)
 
 ## building
 - **intellea** – lean visual interface for llms, beyond text chat
+- **mathdecode** - learn to read math notation after skipping all that in university like i did
 - **lumir** – llm-assisted app for faster learning & retention  
 - client work – agents, mlops, optimizations
 
