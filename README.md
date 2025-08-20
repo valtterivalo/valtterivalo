@@ -1,6 +1,6 @@
 # valtteri
 
-data/software/ai guy @ [smartbi](https://smartbi.fi)
+data/software/ai guy @ [norrin](https://norrin.com/)
 
 ## building
 - **[intellea](https://intellea.app)** – lean visual interface for llms, beyond text chat
@@ -9,4 +9,4 @@ data/software/ai guy @ [smartbi](https://smartbi.fi)
 - client work – agents, mlops, optimizations
 - misc - video game automation
 
-📫 valtteri.valo@smartbi.fi · [x](https://x.com/ValtteriValo) · [linkedin](https://www.linkedin.com/in/valtteri-valo/)
+📫 valtteri.valo@norrin.com · [x](https://x.com/ValtteriValo) · [linkedin](https://www.linkedin.com/in/valtteri-valo/)
