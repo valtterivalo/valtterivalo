@@ -1,6 +1,6 @@
 # valtteri
 
-data scientist / ml engineer @ [smartbi](https://smartbi.fi)
+data/software/ai guy @ [smartbi](https://smartbi.fi)
 
 ## building
 - **[intellea](https://intellea.app)** – lean visual interface for llms, beyond text chat
