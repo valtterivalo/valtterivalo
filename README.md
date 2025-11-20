@@ -1,6 +1,6 @@
 # valtteri
 
-data/software/ai guy
+founding ai eng @ clock&cloud
 
 ## building
 - **[intellea](https://intellea.app)** – lean visual interface for llms, beyond text chat
@@ -9,4 +9,4 @@ data/software/ai guy
 - client work – agents, mlops, optimizations
 - misc - video game automation
 
-📫 valtteri@valo.email · [x](https://x.com/ValtteriValo) · [linkedin](https://www.linkedin.com/in/valtteri-valo/)
+📫 valtteri@valo.email · valtteri.valo@clockcloud.ai · [x](https://x.com/ValtteriValo) · [linkedin](https://www.linkedin.com/in/valtteri-valo/)
