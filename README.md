@@ -2,7 +2,7 @@
 
 founding ai eng @ clock&cloud
 
-mainly interested in reinforcement learning and efficient and sane ml tooling
+mainly into reinforcement learning research and efficient and sane ml tooling
 
 competitive badminton player, two small kids and a wife
 
