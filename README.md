@@ -2,10 +2,14 @@
 
 founding ai eng @ clock&cloud
 
+mainly interested in reinforcement learning and efficient and sane ml tooling
+
+competitive badminton player, two small kids and a wife
+
 ## work
 - **[clock&cloud](https://www.clockcloud.ai/)** - the leading saas platform for geopolitical and economic intel
 - **[pufferlib](https://puffer.ai/)** - env, kernel, and algo work
-- oss contributions here and there, mainly interested in efficient and sane ml tooling
+- oss contributions here and there
 - client work – agents, mlops, optimizations
 
 ## ai slop
